@@ -608,14 +608,8 @@ Through this project, I learned:
 
 ## 👨‍💻 Author
 
-**Vikas Jagtap**
+**P TEJESWAR REDDY**
 
-BSc Computer Science | AWS | DevOps | Cloud Computing
 
 ---
 
-# mysql-postgresql-migration-using-aws
-
-## ⭐ Project
-
-(https://github.com/vikasjagtap9696/mysql-postgresql-migration-using-aws/edit/main/README.md)
